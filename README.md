@@ -1,7 +1,7 @@
 # PM-Case-Challenges
 The collection of case challenges solved provided by PM School community to improve PM skills
 
-# WC 34 - Koo-App.pdf
+# Koo-App.pdf (WC34)
 **Problem Statement:**
 
 Engagement/Retention:
