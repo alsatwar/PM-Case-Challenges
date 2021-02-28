@@ -20,7 +20,7 @@ the same. Consider the following :-
 For the above, please state any assumptions you make.
 
 
-# WhatsApp Stocks & Mutual Funds (WC35)
+# WhatsApp-Stocks & Mutual Funds (WC35)
 **Problem Statement:**
 
 You’ve joined WhatsApp as the Head of Product for India.
