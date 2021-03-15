@@ -1,8 +1,8 @@
 # PM-Case-Challenges
 The collection of case challenges solved provided by PM School community to improve PM skills
 
-# Koo-App (WC34, PM School)
-(Runners Up)
+# Koo-App (Runners Up WC34, PM School)
+
 **Problem Statement:**
 
 Engagement/Retention:
@@ -21,8 +21,8 @@ the same. Consider the following :-
 For the above, please state any assumptions you make.
 
 
-# WhatsApp-Stocks & Mutual Funds (WC35, PM School)
-( Winner )
+# WhatsApp-Stocks & Mutual Funds (Winner WC35, PM School)
+
 **Problem Statement:**
 
 You’ve joined WhatsApp as the Head of Product for India.
@@ -50,8 +50,8 @@ As the Head of Product, come up with a detailed plan covering the following :-
 For the above, please state any assumptions you make.
 
 
-# Google Pay CX Team (Innovate - PM Case Challenge, BizTech IIM L & PM School)
-( Winner )
+# Google Pay CX Team (Winner, Innovate - PM Case Challenge, BizTech IIM L & PM School)
+
 **Problem Statement:**
 
 At Google, we want to create a customer centric culture, where customer experience comes first and foremost. To kickstart this, for the first time, we have decided to create a customer success team (CX Team) with the objective of improving customer satisfaction and experience of Google Pay.
