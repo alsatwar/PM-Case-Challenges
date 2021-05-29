@@ -1,6 +1,28 @@
 # PM-Case-Challenges
 The collection of case challenges solved provided by PM School community to improve PM skills
 
+# To improve ‘See All Activity’ feature in LinkedIn app/website
+Solved by conducting user research(through survey questionnaire) on 80 LinkedIn users, analyzed the data collected, accordingly suggested features to solve the problem creating wireframes and success metrics
+
+**Problem Statement:**
+
+Nayar is a prefinal year student at IIT(ISM) Dhanbad, he is currently looking for summer internship in the field of product management. He uses LinkedIn to find internship opportunities in job section, posts by HRs or startup founders and to gain knowledge ( other people’s experience, thoughts on current scenario and future scope ). He has converted from daily active user to power user of LinkedIn since past two months(As of 25th May 2021). But he faces poor user experience regarding ‘See All Activity’ feature, because
+
+Whenever he visits ‘All activity’ page to see his previously seen post he has to scroll down through the page to find the post
+
+Sometimes he doesn’t find that post
+
+He thinks that this feature has to revamped and redesigned to improve user experience
+
+**Goals**
+
+Redesign ‘See All Activity’ page to improve user experience and customer satisfaction
+
+Increase engagement in ‘See All Activity’ page
+
+Increase frequency of visits to ‘See All activity’ page
+
+
 # Koo-App (Runners Up WC34, PM School)
 
 **Problem Statement:**
