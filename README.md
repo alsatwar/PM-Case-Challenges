@@ -1,7 +1,7 @@
 # PM-Case-Challenges
 The collection of case challenges solved provided by PM School community to improve PM skills
 
-# To improve ‘See All Activity’ feature in LinkedIn app/website
+# Improving ‘See All Activity’ feature in LinkedIn app/website
 Solved by conducting user research(through survey questionnaire) on 80 LinkedIn users, analyzed the data collected, accordingly suggested features to solve the problem creating wireframes and success metrics
 
 **Problem Statement:**
